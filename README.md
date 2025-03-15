@@ -26,7 +26,8 @@
 - **BigSS** – `/ct import bigss`  
 - **[ItemDrops](https://github.com/eatpIastic/itemdrops)**  
 - **Bloom** – `/ct import Bloom`  
-- **SBD** – `/ct import sbd`  
+- **SBD** – `/ct import sbd`
+- **[BigTimer](https://github.com/eatpIastic/bigtimer)** 
 
 ---
 
