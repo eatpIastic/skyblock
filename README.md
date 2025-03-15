@@ -18,8 +18,6 @@
 ## Mods I Use but Don't Recommend
 - **OverflowAnimations** – This thing is a piece of garbage, use Sk1er's old animations instead.
 - **ReplayMod** – You probably don't need it.
-- **AtonAddons** – I'm (very) slowly working on making some of the features more modern.
-
 ---
 
 ## ChatTriggers Modules
