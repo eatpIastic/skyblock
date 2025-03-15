@@ -1,4 +1,4 @@
-# Skyblock Mods & Configs
+# Skyblock Mods
 
 ## Mods I Recommend
 - **[Odin](https://github.com/odtheking/Odin/releases)**  
@@ -18,6 +18,7 @@
 ## Mods I Use but Don't Recommend
 - **OverflowAnimations** – This thing is a piece of garbage, use Sk1er's old animations instead.
 - **ReplayMod** – You probably don't need it.
+
 ---
 
 ## ChatTriggers Modules
@@ -31,3 +32,8 @@
 
 ## Texture Packs
  **[Texture Packs Repository](https://github.com/eatpIastic/texturepacks)**
+
+---
+
+## Configs
+ Some configs are uploaded to the repo, some aren't because mods aren't that complicated and I cba dealing with people being confused when our gui's don't line up or whatever dumb bs
