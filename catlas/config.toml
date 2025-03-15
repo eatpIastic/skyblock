@@ -1,0 +1,74 @@
+
+[rooms]
+	room_secrets = 1
+	room_names = 3
+	found_room_secrets = 1
+	color_text = true
+	room_checkmarks = 0
+
+	[rooms.checkmarks]
+		center_room_checkmarks = true
+
+	[rooms.text]
+		center_room_names = true
+
+[other_features]
+
+	[other_features.wither_door]
+		has_key_color = "255,0,255,0"
+		no_key_color = "255,255,0,0"
+		door_fill_opacity = 0.25
+		box_wither_doors = true
+		door_outline_width = 3.0
+		door_outline_opacity = 1.0
+
+[map]
+
+	[map.size]
+		map_text_scale = 0.59
+		player_name_scale = 0.8
+		player_heads_scale = 1.0
+
+	[map.toggle]
+		vanilla_head_marker = true
+		center_map = false
+		dynamic_rotate = false
+		rotate_map = false
+		map_enabled = true
+		show_player_names = 1
+		show_before_start = true
+		hide_in_boss = true
+
+	[map.render]
+		map_border_color = "255,0,0,0"
+		border_thickness = 3.0
+		map_background_color = "100,0,0,0"
+
+[colors]
+
+	[colors.doors]
+		entrance_door = "255,20,133,0"
+		opened_wither_door = "255,92,52,14"
+		blood_door = "255,231,0,0"
+		wither_door = "255,0,0,0"
+		unopened_door = "255,65,65,65"
+		normal_door = "255,92,52,14"
+
+	[colors.rooms]
+		rare_room = "255,255,203,89"
+		unopened_room = "255,46,43,43"
+		blood_room = "255,255,0,0"
+		fairy_room = "255,224,0,255"
+		entrance_room = "255,20,133,0"
+		puzzle_room = "255,117,0,133"
+		normal_room = "255,107,58,17"
+		trap_room = "255,216,127,51"
+		miniboss_room = "255,254,223,0"
+
+	[colors.players]
+		"player_border_color_(mage)" = "255,0,0,0"
+		"player_border_color_(berserk)" = "255,0,0,0"
+		"player_border_color_(archer)" = "255,0,0,0"
+		"player_border_color_(healer)" = "255,0,0,0"
+		"player_border_color_(tank)" = "255,0,0,0"
+
