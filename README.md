@@ -36,4 +36,11 @@
 ---
 
 ## Configs
- Some configs are uploaded to the repo, some aren't because mods aren't that complicated and I cba dealing with people being confused when our gui's don't line up or whatever dumb bs
+ Some configs are uploaded to the repo, some aren't because mods aren't that complicated and I cba dealing with people being confused when our gui's don't line up or whatever dumb bs.
+ Odin Settings Screenshot:
+ ![image](https://github.com/user-attachments/assets/273d403f-c541-437c-a1e2-725ebfe83b67)
+
+---
+
+## FAQ
+No I don't use NEU or SkyHanni or BetterMap or Soopy they are all useless and kill my frames.
