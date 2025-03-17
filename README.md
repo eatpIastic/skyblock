@@ -28,6 +28,7 @@
 - **Bloom** – `/ct import Bloom`  
 - **SBD** – `/ct import sbd`
 - **[BigTimer](https://github.com/eatpIastic/bigtimer)** 
+- **[BigWaypoint](https://github.com/eatpIastic/bigwaypoint)** 
 
 ---
 
