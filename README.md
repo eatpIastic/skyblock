@@ -1,13 +1,13 @@
 # Skyblock Mods
 
 ## Mods I Recommend
-- **[Odin](https://github.com/odtheking/Odin/releases)**  
-- **[Skytils](https://github.com/Skytils/SkytilsMod/releases)**  
-- **[ChatTriggers](https://chattriggers.com/)**  
-- **[CrashPatch](https://github.com/Polyfrost/CrashPatch/releases)**  
-- **[ScalableTooltips](https://github.com/SubAt0m1c/ScalableTooltips/releases)**  
-- **[HateCheaters](https://github.com/SubAt0m1c/HateCheaters/releases)**  
-- **[ResourcePackOrganizer](https://modrinth.com/mod/resource-pack-organizer/versions)**  
+- **[Odin](https://github.com/odtheking/Odin/releases)**  - every dungeon solver except ss.
+- **[Skytils](https://github.com/Skytils/SkytilsMod/releases)**
+- **[ChatTriggers](https://chattriggers.com/)**
+- **[CrashPatch](https://github.com/Polyfrost/CrashPatch/releases)** - prevent crashing 
+- **[ScalableTooltips](https://github.com/SubAt0m1c/ScalableTooltips/releases)**  - dulkirmod tooltip scaling without dulkirmod
+- **[HateCheaters](https://github.com/SubAt0m1c/HateCheaters/releases)**  - neu PV replacement
+- **[ResourcePackOrganizer](https://modrinth.com/mod/resource-pack-organizer/versions)** 
 - **[PolyCrosshair](https://modrinth.com/mod/crosshair/versions)**  
 - **[Keystrokes](https://sk1er.club/mods/keystrokesmod)**  
 - **[Optifine](https://optifine.net/downloads)**  
@@ -22,13 +22,15 @@
 ---
 
 ## ChatTriggers Modules
-- **[BigTracker](https://github.com/eatpIastic/bigtracker)**  
-- **BigSS** – `/ct import bigss`  
-- **[ItemDrops](https://github.com/eatpIastic/itemdrops)**  
-- **Bloom** – `/ct import Bloom`  
-- **SBD** – `/ct import sbd`
-- **[BigTimer](https://github.com/eatpIastic/bigtimer)** 
-- **[BigWaypoint](https://github.com/eatpIastic/bigwaypoint)** 
+- **[BigTracker](https://github.com/eatpIastic/bigtracker)** - party finder stat tracking, croesus chest profit
+- **[BigKismet](https://github.com/eatpIastic/bigkismet)** - client side kismet use tracking and croesus highlight. very work in progress.  
+- **BigSS** – `/ct import bigss`  - ss practice on my island /visit eatplastic
+- **[ItemDrops](https://github.com/eatpIastic/itemdrops)**  - highlight secret drops in dungeons
+- **Bloom** – `/ct import Bloom`  - ss solver
+- **SBD** – `/ct import sbd` - pf overlay
+- **[BigTimer](https://github.com/eatpIastic/bigtimer)** - room secrets timer
+- **[BigWaypoint](https://github.com/eatpIastic/bigwaypoint)** - work in progress waypoints that allow you to bind commands to clicking a waypoint.
+- **HotSpot** – `/ct import hotspot` - I use this when fishing to send the hotspot coords and type with a keybind.
 
 ---
 
