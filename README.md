@@ -31,7 +31,7 @@
 - **[BigTimer](https://github.com/eatpIastic/bigtimer)** - room secrets timer
 - **[BigWaypoint](https://github.com/eatpIastic/bigwaypoint)** - work in progress waypoints that allow you to bind commands to clicking a waypoint.
 - **HotSpot** – `/ct import hotspot` - I use this when fishing to send the hotspot coords and type with a keybind.
-
+- **[BigFlay](https://github.com/eatpIastic/bigflay)** - replaces mcdonalds particles on flaming flay with random colors
 ---
 
 ## Texture Packs
