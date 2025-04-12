@@ -12,7 +12,8 @@
 - **[Keystrokes](https://sk1er.club/mods/keystrokesmod)**  
 - **[Optifine](https://optifine.net/downloads)**  
 - **[OverflowParticles](https://modrinth.com/mod/overflowparticles/versions)**  
-
+- **[RawInput](https://github.com/SubAt0m1c/RawInput)**
+- 
 ---
 
 ## Mods I Use but Don't Recommend
