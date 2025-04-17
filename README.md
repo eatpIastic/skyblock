@@ -1,7 +1,7 @@
 # Skyblock Mods
 
 ## Mods I Recommend
-- **[Odin](https://github.com/odtheking/Odin/releases)**  - every dungeon solver except ss.
+- **[Odin](https://github.com/odtheking/Odin/releases)**  - every dungeon solver
 - **[Skytils](https://github.com/Skytils/SkytilsMod/releases)**
 - **[ChatTriggers](https://chattriggers.com/)**
 - **[CrashPatch](https://github.com/Polyfrost/CrashPatch/releases)** - prevent crashing 
@@ -27,7 +27,6 @@
 - **[BigKismet](https://github.com/eatpIastic/bigkismet)** - client side kismet use tracking and croesus highlight. very work in progress.  
 - **BigSS** – `/ct import bigss`  - ss practice on my island /visit eatplastic
 - **[ItemDrops](https://github.com/eatpIastic/itemdrops)**  - highlight secret drops in dungeons
-- **Bloom** – `/ct import Bloom`  - ss solver
 - **SBD** – `/ct import sbd` - pf overlay
 - **[BigTimer](https://github.com/eatpIastic/bigtimer)** - room secrets timer
 - **[BigWaypoint](https://github.com/eatpIastic/bigwaypoint)** - work in progress waypoints that allow you to bind commands to clicking a waypoint.
